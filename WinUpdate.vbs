@@ -9,11 +9,6 @@ strScriptVer = "2.6b - Rob Dunn @ http://community.spiceworks.com"
 'uphold 2001 (at) hot mail (dot)com
 '~~[/emailAddress]~~
 '
-'~~[website]~~
-'For future versions and support:
-'http://www.vbshf.com
-'~~[/website]~~
-'
 '~~[scriptType]~~
 'vbscript
 '~~[/scriptType]~~
